@@ -1,6 +1,9 @@
 package constants
 
 enum class City(val serverName: String, val department: Department) {
+    SAINT_PRIEST("SAINT PRIEST", Department.D_69),
+    BOURGOIN_JALLIEU("BOURGOIN-JALLIEU", Department.D_38),
+    LA_TRONCHE("LA TRONCHE", Department.D_38),
     AVON("AVON", Department.D_77),
     COULOMMIERS("COULOMMIERS", Department.D_77),
     LAGNY_SUR_MARNE("LAGNY SUR MARNE", Department.D_77),
