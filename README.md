@@ -10,9 +10,15 @@ Je ne cautionne ni n'encourage l'utilisation de robot pour réserver sa place d'
 
 ## Prérequis
 
+- chmod +x candilibre.kexe
+- ./candilibre.kexe
+
 ### Mac
  - **curl** doit être installé sur votre machine et être disponible dans le $PATH.
  - processeur 64bits uniquement
+
+- chmod +x candilibre.kexe
+- ./candilibre.kexe
 
 ### Windows
  - processeur 64bits uniquement
