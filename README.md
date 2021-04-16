@@ -12,7 +12,7 @@ A bot to book driving tests on the Candilib website.
 - chmod +x candilibre.kexe
 - ./candilibre.kexe
 
-## Build for scratch 
+## Build from sources
 
 - Git clone
 - ./gradlew runDebugExecutableMacosX64
